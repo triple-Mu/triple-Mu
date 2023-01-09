@@ -19,7 +19,7 @@
 
 <img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=triple-Mu&show_icons=true&hide_border=true&count_private=true" />
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/triple-Mu/count.svg" />
 </p>
