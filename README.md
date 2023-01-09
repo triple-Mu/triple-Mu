@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
 <a href="https://www.zhihu.com/people/lin-song-90-40">
     <img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎" /></a>
-<a href="#https://space.bilibili.com/22968104">
+<a href="https://space.bilibili.com/22968104">
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
 </p> 
 
